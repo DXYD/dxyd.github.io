@@ -10,7 +10,7 @@
   "author": "dxyd",
   "license": "ISC",
   "devDependencies": {
-    "@vuepress/bundler-vite": "^2.0.0-rc.23",
+    "@vuepress/bundler-vite": "^2.0.0-rc.24",
     "@vuepress/plugin-docsearch": "^2.0.0-rc.110",
     "@vuepress/plugin-search": "^2.0.0-rc.110",
     "@vuepress/theme-default": "^2.0.0-rc.110",
